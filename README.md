@@ -1,0 +1,2 @@
+- fetch pokemon
+- vote on pokemon
